@@ -33,6 +33,7 @@ body {
     -webkit-font-smoothing: antialiased;
 	line-height: 26px;
 }
+
 a, .btn  {
 	-webkit-transition: all 0.3s ease-out 0s; 
 	-moz-transition: all 0.3s ease-out 0s; 
